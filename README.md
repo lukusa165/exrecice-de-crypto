@@ -1,4 +1,7 @@
-Cette fonction permet de transformer un message en une valeur numérique appelée hash.
+ KIVIDI MALANGA OLIVIER
+
+
+Cette fonction permet de transformer un message "OLIVIER"en une valeur numérique appelée hash.
 
 Elle parcourt chaque caractère du texte et utilise son code ASCII grâce à ord().
 
